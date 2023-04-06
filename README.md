@@ -1,5 +1,5 @@
 ![](matrix.gif)
-Чтобы запустить
+Чтобы запустить (на windows) :
 ```
 pip intsall pygame
 python main.py
