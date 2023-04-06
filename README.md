@@ -1,6 +1,6 @@
 ![](matrix.gif)
 Чтобы запустить (на windows) :
 ```
-pip intsall pygame
+pip install pygame
 python main.py
 ```
